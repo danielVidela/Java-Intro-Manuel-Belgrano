@@ -1,12 +1,3 @@
-/*
- * Sin licencia .
- * Uso para capacitación
- * 2021 Año de la Prevención y Lucha contra el COVID-19.
-
-    2.Escribir un programa que pida dos números enteros por teclado y calcule 
-    la suma de los dos. 
-    El programa deberá después mostrar el resultado de la suma
-*/
 
 
 package guiajavaintroduccion;
